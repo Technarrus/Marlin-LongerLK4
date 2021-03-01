@@ -1,5 +1,8 @@
 
 Это конфигурация Marlin 2.0.6.1 для 3д принтера UNI от компании UNI 3D https://uni-3d.ru/
+Плата управления - SKR 1.3 + дисплей 12864
+Под сборку на CORE XY (после не больших правок и H-BOT) по данному видео: https://youtu.be/AGizyTx6PBE
+
 
 
 # Marlin 3D Printer Firmware
